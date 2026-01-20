@@ -24,7 +24,7 @@
 
 ```bash
 # 克隆仓库
-git clone https://github.com/YOUR_USERNAME/douyin-video-tool.git
+git clone https://github.com/NantesCheval/douyin-video-tool.git
 cd douyin-video-tool
 
 # 创建虚拟环境
