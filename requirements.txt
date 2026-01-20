@@ -1,0 +1,6 @@
+deep-translator>=1.11.4
+edge-tts>=6.1.9
+pysrt>=1.1.2
+moviepy>=2.0.0
+numpy>=1.25.0
+Pillow>=9.2.0
